@@ -17,8 +17,9 @@ https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&l
     I am looking forward to finishing all the supporting technologies in my dream which I started with my partner 3️⃣ years ago that I named DIAMOND 💎
     It focuses on all the technologies and demands that any company or single programmer should need in their project, so we suggest developing a way to make it easier for customers.
 
-    🔗 I'm currently not working I'm looking for opportunities job in my section. 
+    🔗 I'm currently working JMM MARINE MARITIME CO. SA. 
     🤔I am looking for help implementing payment gateway ideas.
+    🤔I am looking for help implementing Leaflet js map.
     📫 How to reach me: shazarajab1@gmail.com.
     ⚡ Fun fact: I play mobile games and read a lot of novels always.
 
