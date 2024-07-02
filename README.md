@@ -1,6 +1,6 @@
 # Hi I'm Shaza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40">
 
-I'm Shaza Rajab, a Web Developer, Data Analyst, Cloud Engineer, DevOps Professional, and Academic Researcher. I spend most of my time coding, analyzing and testing systems, researching the latest tech releases, and exploring cloud and security solutions. My diverse skill set allows me to approach projects with a holistic perspective, integrating web development, data analysis, cloud technologies, and security practices.
+I'm Shaza Rajab a Cloud Engineer, DevOps Professional, Web Developer, Data Analyst, and Academic Researcher. I spend most of my time coding, analyzing and testing systems, researching the latest tech releases, and exploring cloud and security solutions. My diverse skill set allows me to approach projects with a holistic perspective, integrating web development, data analysis, cloud technologies, and security practices.
 
 📫
 
@@ -8,17 +8,33 @@ I'm Shaza Rajab, a Web Developer, Data Analyst, Cloud Engineer, DevOps Professio
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shaza-raj-88b23b210/) ![Mail Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/shazaraj) ![Mail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&labelColor=EA4335&logo=gmail&logoColor=white&link=mailto:shazarajab1@gmail.com)
 
-# My Work
+# My Work and Future Goals
 
-🔗 My dream project:
-I am looking forward to finishing all the supporting technologies in my dream which I started with my partner 3️⃣ years ago that I named DIAMOND 💎
-It focuses on all the technologies and demands that any company or single programmer should need in their project, so we suggest developing a way to make it easier for customers.
+🔗 Future Dream Project - DIAMOND 💎:
+DIAMOND is a vision I conceptualized with my partner 3️⃣ years ago. It's designed as a comprehensive software cloud service platform to address the diverse technological needs of companies and individual programmers. While it's not currently in active development, it remains a long-term goal that drives my professional growth.
 
-🔗 I'm currently working as a Cloud Engineer and Security Professional at JMM MARINE MARITIME CO. SA. 
-🤔 I am looking for help implementing payment gateway ideas.
-🤔 I am looking for help implementing Leaflet js map.
+🔗 Current Focus:
+I'm dedicating my time to expanding my knowledge and gaining valuable experience in cloud engineering and related technologies. My current work involves:
+
+- Working as a Cloud Engineer, applying and enhancing my skills in cloud technologies
+- Conducting academic research to deepen my understanding of advanced cloud concepts
+- Exploring various aspects of DevOps, security, and software development
+- Continuously learning about emerging technologies in the cloud and software industry
+
+This focus on learning and practical experience is laying the groundwork for future projects, including the eventual realization of DIAMOND.
+
+🔗 Vision for the Future:
+As I continue to grow professionally, I'm building the expertise needed to eventually develop platforms like DIAMOND, which could offer:
+- Scalable cloud infrastructure
+- Integrated development tools
+- Advanced security features
+- Data analytics capabilities
+- AI and machine learning services
+
+While DIAMOND is a future aspiration, the knowledge and skills I'm gaining now are shaping my understanding of what's possible in cloud services and software development.
+
 📫 How to reach me: shazarajab1@gmail.com.
-⚡ Fun fact: I play mobile games and read a lot of novels always.
+⚡ Fun fact: I play mobile games and read a lot of novels always, finding inspiration for innovative tech solutions in unexpected places!
 
 #
 
