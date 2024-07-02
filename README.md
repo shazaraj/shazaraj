@@ -1,4 +1,4 @@
-# Hi I'm Shaza <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40">
+# Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40">
 
 I'm Shaza Rajab a Cloud Engineer, DevOps Professional, Web Developer, Data Analyst, and Academic Researcher. I spend most of my time coding, analyzing and testing systems, researching the latest tech releases, and exploring cloud and security solutions. My diverse skill set allows me to approach projects with a holistic perspective, integrating web development, data analysis, cloud technologies, and security practices.
 
