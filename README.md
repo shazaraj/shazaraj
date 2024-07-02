@@ -13,15 +13,6 @@ I'm Shaza Rajab a Cloud Engineer, DevOps Professional, Web Developer, Data Analy
 🔗 Future Dream Project - DIAMOND 💎:
 DIAMOND is a vision I conceptualized with my partner 3️⃣ years ago. It's designed as a comprehensive software cloud service platform to address the diverse technological needs of companies and individual programmers. While it's not currently in active development, it remains a long-term goal that drives my professional growth.
 
-🔗 Current Focus:
-I'm dedicating my time to expanding my knowledge and gaining valuable experience in cloud engineering and related technologies. My current work involves:
-
-- Working as a Cloud Engineer, applying and enhancing my skills in cloud technologies
-- Conducting academic research to deepen my understanding of advanced cloud concepts
-- Exploring various aspects of DevOps, security, and software development
-- Continuously learning about emerging technologies in the cloud and software industry
-
-This focus on learning and practical experience is laying the groundwork for future projects, including the eventual realization of DIAMOND.
 
 🔗 Vision for the Future:
 As I continue to grow professionally, I'm building the expertise needed to eventually develop platforms like DIAMOND, which could offer:
@@ -34,6 +25,7 @@ As I continue to grow professionally, I'm building the expertise needed to event
 While DIAMOND is a future aspiration, the knowledge and skills I'm gaining now are shaping my understanding of what's possible in cloud services and software development.
 
 📫 How to reach me: shazarajab1@gmail.com.
+
 ⚡ Fun fact: I play mobile games and read a lot of novels always, finding inspiration for innovative tech solutions in unexpected places!
 
 #
@@ -76,13 +68,15 @@ While DIAMOND is a future aspiration, the knowledge and skills I'm gaining now a
 
 #
 
-💻 I'm Currently Learning:
+🔗 Current Focus:
+I'm dedicating my time to expanding my knowledge and gaining valuable experience in cloud engineering and related technologies. My current work involves:
 
-1. Advanced JavaScript and TypeScript
-2. Implementing payment gateways 💵
-3. Advanced Cloud Architecture and Security
-4. Machine Learning for DevOps
-5. Blockchain technology for secure systems
+- Working as a Cloud Engineer, applying and enhancing my skills in cloud technologies
+- Conducting academic research to deepen my understanding of advanced cloud concepts
+- Exploring various aspects of DevOps, security, and software development
+- Continuously learning about emerging technologies in the cloud and software industry
+
+This focus on learning and practical experience is laying the groundwork for future projects, including the eventual realization of DIAMOND.
 
 &&
 
